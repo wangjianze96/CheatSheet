@@ -13,7 +13,7 @@ for more info, go check [this website](https://vim.rtorr.com/)
 `e`				// jump forwards to the end of a word            
 `E`         
 `ge`			// jump backwards to the end of a word          
-`gE`		
+`gE`              
 `0`				// jump to the start of a line           
 `$`				// jump to the end of the line            
 `:lineNumber`	// go to a certain line
